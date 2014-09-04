@@ -1,0 +1,11 @@
+{
+    "name": "talmand.show-colors",
+    "title": "Show Colors",
+    "description": "Attempts to display color on CodeMirror token in CSS files based on hex, rgb, rgba values.",
+    "homepage": "https://github.com/talmand/Brackets-Show-Colors",
+    "version": "0.0.1",
+    "author": "Travis Almand",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
